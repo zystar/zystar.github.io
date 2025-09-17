@@ -1,0 +1,148 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>ZYSTAR</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<!--<base target="_blank" />--><!--在新窗口打开a标签-->
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+					<div id="intro">
+						<h1>ZYSTAR的</h1>
+						<h1>小破站</h1>
+						<p>不定期更新吐槽一些无趣且平庸的日常</p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">ZYSTAR</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li class="active"><a href="index.html">首頁</a></li>
+<!--							<li><a href="generic.html">Generic Page</a></li>-->
+<!--							<li><a href="elements.html">Elements Reference</a></li>-->
+						</ul>
+						<ul class="icons">
+							<li><a href="https://github.com/zystar/" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									<span class="date">March 11, 2023</span>
+									<h2>daily wallpaper</h2>
+									<p>How good for us to see each other <br />
+										before I am completely bald!<br />
+										I have some fine little wisps of hair on the top of my head.<br />
+										I love you.</p>
+								</header>
+								<img loading="lazy" class="image main" src="https://bingw.jasonzeng.dev/" alt="" />
+								<ul class="actions special">
+									<li><a href="https://bingw.jasonzeng.dev/" class="button large">Full Picture</a></li>
+								</ul>
+							</article>
+
+						<!-- Posts -->
+							<section class="posts">
+								<article>
+									<header>
+										<span class="date">March 31, 2024</span>
+										<h2>赏花季</h2>
+									</header>
+									<img loading="lazy" class="image fit" src="images/pic10.jpg" alt="" />
+									<p>我一个直男怎么会喜欢花儿呢</p>
+									<p>地点：奥林匹克森林公园(北园)</p>
+									<p>f/5.6, 1/1000s, ISO-100, -0.3EV, FL-135mm</p>
+								</article>
+								<article>
+									<header>
+										<span class="date">April 09, 2023</span>
+										<h2>花儿与准少年</h2>
+									</header>
+									<img loading="lazy" class="image fit" src="images/pic09.jpg" alt="" />
+									<p>可能是近期最喜欢的一张照片了，记录一下。</p>
+									<p>地点：中华民族博物院(北园)</p>
+									<p>f/6.3, 1/50s, ISO-100, -1EV, FL-135mm</p>
+								</article>
+								<article>
+									<header>
+										<span class="date">August 27, 2022</span>
+										<h2>众里寻Ta千百度</h2>
+									</header>
+									<img loading="lazy" class="image fit" src="images/pic08.jpg" alt="" />
+									<p>天坛的美好瞬间</p>
+									<p>偶然拍到的穿婚纱的小姐姐，在挑选着相机里的照片，手里还拿着一束鲜花。</p>
+								</article>
+								<article>
+									<header>
+										<span class="date">March 29, 2023</span>
+										<h2>见信如晤</h2>
+									</header>
+									<iframe src="//player.bilibili.com/player.html?aid=546339917&bvid=BV1uq4y1s7fM&cid=358480374&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+									<p>最后附上抖森教科书级别朗读情书~~见字如面 All this I did without you. 爱了爱了</p>
+								</article>
+								<article>
+									<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1361736567&auto=1&height=66"></iframe>
+								</article>
+
+							</section>
+
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<section class="split contact">
+							<section>
+								<h3>Email</h3>
+								<p>zy_star@foxmail.com</p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+									<li><a href="https://github.com/zystar/" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
